@@ -1,2 +1,4 @@
 Unity Project\Library\ArtifactDB
 \Unity Project\Library\PackageCache\com.ptc.vuforia.engine@9.0.12
+
+Link to download https://drive.google.com/file/d/1doIFMfhjTz7fKd_B_HhHGWr5agNh242I/view?usp=sharing
