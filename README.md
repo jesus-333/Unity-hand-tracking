@@ -3,4 +3,4 @@ In this repository I will upload a personal project that use a combination of py
 I will use a python script to detect the hand movement and the relative gesture.
 
 **NB: THE PROJECT TO WORK NEED SOME FILE THAT I CAN'T DOWNLOAD ON GITHUB FOR SIZE REASONS.**
-The file are available at the following link. Download them an put the in the path specify by the file path extra thing.txt
+The file are available at the following [link](https://drive.google.com/file/d/1doIFMfhjTz7fKd_B_HhHGWr5agNh242I/view?usp=sharing) . Download them an put the in the path specify by the file path extra thing.txt
