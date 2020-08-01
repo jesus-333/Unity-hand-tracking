@@ -1,0 +1,2 @@
+Unity Project\Library\ArtifactDB
+\Unity Project\Library\PackageCache\com.ptc.vuforia.engine@9.0.12
