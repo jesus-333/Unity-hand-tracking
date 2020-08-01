@@ -1,0 +1,24 @@
+{
+    "name": "UnityEditor.XR.LegacyInputHelpers",
+    "references": [
+        "UnityEngine.XR.LegacyInputHelpers",
+        "UnityEngine.SpatialTracking"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "0.9.0",
+            "define": "XRI_PRESENT"
+        }
+    ],
+    "noEngineReferences": false
+}
