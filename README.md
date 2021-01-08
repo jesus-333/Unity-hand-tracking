@@ -4,7 +4,7 @@ I use a python script to detect the hand movement and the relative gesture.
 
 A simple video demo is aviable at this [link(1)](https://www.youtube.com/watch?v=O4Udf7Gu3zE). I also made another video demo with a far mored advance hand tracking method that use always the same technique to link Python and Unity. You could find the video at this [link(2)](https://www.youtube.com/watch?v=1nmR-dRdeos).
 
-For the code for the advance hand tracking see my other project called Hand Tracking Pytorch. You could find the repository on my profile or following this [link](https://github.com/jesus-333/Hand-Tracking-Pytorch).
+For the code of the advance hand tracking see my other project called Hand Tracking Pytorch. You could find the repository on my profile or following this [link](https://github.com/jesus-333/Hand-Tracking-Pytorch).
 
 I upload a pdf report that describ in all details how the code and the unity integration work.
 
