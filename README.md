@@ -6,7 +6,10 @@ A simple video demo is aviable at this [link(1)](https://www.youtube.com/watch?v
 
 For the code of the advance hand tracking see my other project called Hand Tracking Pytorch. You could find the repository on my profile or following this [link](https://github.com/jesus-333/Hand-Tracking-Pytorch).
 
-I upload a pdf report that describ in all details how the code and the unity integration work.
+I upload a pdf report that describe in all details how the code and the unity integration work.
+
+## Requirements
+The Project NEED [Vuforia](https://developer.vuforia.com/) to work. If you want to install by yourself you can only download the Asset folder (inside the Unity Project folder).
 
 ## Contacs 
 If you ever use this code please cite me  :pray:  :heart:
